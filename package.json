@@ -1,5 +1,5 @@
 {
-  "name": "my-nature-finds",
+  "name": "Explorater",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -13,7 +13,7 @@
     "@angular/animations": "^14.2.0",
     "@angular/common": "^14.2.0",
     "@angular/compiler": "^14.2.0",
-    "@angular/core": "^14.2.0",
+    "@angular/core": "^14.3.0",
     "@angular/forms": "^14.2.0",
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
