@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  serverEndpoint: 'https://wfa3.josecgomez.dev'
 };
